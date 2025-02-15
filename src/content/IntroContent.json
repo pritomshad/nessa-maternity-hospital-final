@@ -1,0 +1,13 @@
+{
+  "title": "Our Hospital Helps people",
+  "text": "We provide compassionate maternity care for mothers and newborns.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}

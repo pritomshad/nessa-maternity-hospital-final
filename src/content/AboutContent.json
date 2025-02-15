@@ -1,0 +1,16 @@
+{
+  "title": "Assure Health-Care to everone",
+  "text": "We want to ensure good care to the mothers and childrens in Bhadeshwar area. This is Located in Sylhet, Bangladesh",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
